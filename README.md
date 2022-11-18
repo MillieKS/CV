@@ -1,13 +1,25 @@
-## Your Name
+## Millennia Severino
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a human , made of compiled dust and trillions of atoms and my purpose in life is to simply be. My enthusiasm for coding came from apps like Olio and Tiktok, which serve the community in their own ways. Focusing on the positive, these apps have allowed us to connect to eachother without the farse of being someone else, and have helped eachother by either sharing things or sharing experiences and knowledge. I want to be connected and be a part of that. Learning new languages, working with exciting projects and meeting the most amazing people along the way of my journey into Tech, has only really empowered me to keep growing to make a positive difference not only to my life, but in those around me. 
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+
+| **Project**               | **Description**                                                                                                           | **Timeframe** | **Technology**                                | **Github**                                                          | **Live**                                          |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------- | --------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------- |
+| Acebook    | Group project creating a replica of Facebook                                                                      | 2 weeks       | JS, CSS HTML, CSS, BOOTSTRAP, HEROKU, Jest                 | [Github](https://github.com/GuillerminaLorenzo/acebook-monsters-inc)           | na          |
+| Wakify         | Matching your mood to a spotify playlist                                                                           | 2 weeks       | ReactNative, CSS, Spotify API                                | [Github](https://github.com/jonas-diete/wakify)           | na   |
+
+
+## <a name="skills">What I bring to the table (Skills) 👏</a>
+
+#### Excellent communicator, presenter and mentor ####
+
+#### Self-reliant individual and significantly contributory team member ####
+
+#### Fast learner, effective timekeeping skills, and experienced project management ####
+
+#### Highly analytical thinker and innovative problem solver ####
 
 ## Work Experience
 
@@ -20,11 +32,6 @@ _Your job title_
 _Your job title_
 
 - Any experience relevent to software development
-
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
 
 -STAR
 -What was the situation/task? (ST)
@@ -42,7 +49,11 @@ Consider skills relevent to software development. Then consider your best skills
 - Achievements
 - Evidence (STAR)
 
-#### Another Skill
+
+#### Programming fundamentals
+
+Pair Programming , Agile methodology, Dependency Injection, Single responsibility, Object Oriented Design (OOP), Test Driven Development (TDD), Cohesion and Encapsulation.
+Object Oriented Design (OOP) best practices, Test Driven Development (TDD), Pair Programming , Agile development as well as core principles such as dependency injection.
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
 
@@ -54,19 +65,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Education
 
 #### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
+
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Your University UEL(start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Fashion Design
+- UEL Tennis Performance Scholar
 
 #### Any other qualifications
 
