@@ -1,6 +1,8 @@
 ## Millennia Severino
 
-I am a human , made of compiled dust and trillions of atoms and my purpose in life is to simply be. My enthusiasm for coding came from apps like Olio and Tiktok, which serve the community in their own ways. Focusing on the positive, these apps have allowed us to connect to eachother without the farse of being someone else, and have helped eachother by either sharing things or sharing experiences and knowledge. I want to be connected and be a part of that. Learning new languages, working with exciting projects and meeting the most amazing people along the way of my journey into Tech, has only really empowered me to keep growing to make a positive difference not only to my life, but in those around me. 
+I am a human , made of compiled dust and trillions of atoms and my purpose in life is to simply be. My enthusiasm for coding came from dabbling with Python and the exciting world of machine learning aswell as apps like Olio and Tiktok, which serve the community in their own ways. Focusing on the positive, these apps have allowed us to connect to eachother without the farse of being someone else, and have helped eachother by either sharing things or sharing experiences and knowledge. I want to be connected and be a part of that. Learning new languages, working with exciting projects and meeting the most amazing people along the way of my journey into Tech, has only really empowered me to keep growing to make a positive difference not only to my life, but in those around me. 
+
+I would like to work at a company that also shares my goal of moving the world forward and creating real, tangible benefits for society. Having now graduated from Makers, I am eager to use my tenacity, rapidly developing tech skills and love of the community to help them achieve this. 
 
 ## Projects
 
@@ -15,7 +17,11 @@ I am a human , made of compiled dust and trillions of atoms and my purpose in li
 
 #### Excellent communicator, presenter and mentor ####
 
+During my role as Junior Head Coach at LVHTC, I managed a team of 6 coaches of all ages and backgrounds. I became a student and a teacher simutaneously at the same time. Learning how to approach individuals and guiding them through any difficulties they had. I grew myself as a person and my commnications skills developed to jump from a 1-2-1 setting to a proffessional pitch of new ideas to my managers, adapting to the environment around me. 
+
 #### Self-reliant individual and significantly contributory team member ####
+
+During on of the projects at Makers as a team we managed our time and expectations. Thr planning process 
 
 #### Fast learner, effective timekeeping skills, and experienced project management ####
 
@@ -52,8 +58,7 @@ _Your job title_
 
 #### Programming fundamentals
 
-Pair Programming , Agile methodology, Dependency Injection, Single responsibility, Object Oriented Design (OOP), Test Driven Development (TDD), Cohesion and Encapsulation.
-Object Oriented Design (OOP) best practices, Test Driven Development (TDD), Pair Programming , Agile development as well as core principles such as dependency injection.
+Object Oriented Design (OOP) best practices, Test Driven Development (TDD), Pair Programming , Agile methodolgy as well as core principles such as dependency injection.
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
 
@@ -78,7 +83,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+- 
 
 ## Hobbies
 
