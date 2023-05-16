@@ -22,7 +22,7 @@ During my role as Junior Head Coach at LVHTC, I managed a team of 6 coaches of a
 
 #### Self-reliant individual and significantly contributory team member ####
 
-During on of the projects at Makers as a team we managed our time and expectations. Thr planning process 
+During on of the projects at Makers as a team we managed our time and expectations. The planning process was really useful and fun. I really enjoed the team aspect aswell as working in an agile environment. I was lucky enough to always have a great time in team projects even when we faced conflicts, we would always learn and develop which is the aim at the end of the day.
 
 #### Fast learner, effective timekeeping skills, and experienced project management ####
 
@@ -30,62 +30,66 @@ During on of the projects at Makers as a team we managed our time and expectatio
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**LVHTC** (Aug-2021 to Dec-2022)  
+_Junior Head Coach_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Coordinating LVHTC's Tennis KPI's & philosophy, with a team of 5+ coaches and a growing programme of 600+ players 
+- Managed the Inclusive Tennis Programme 
+- Awarded the Essex LTA Disability Tennis Award 2021 
+- Responsible for Timesheets, Invoices, NOPs and enquiries 
+- Writing up the new criteria and structure for the Junior programme with process and procedures in place		
+- Teach all ages and abilities through local schools, NHS and charity events
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Annea** (April-2021 to July-2021)  
+_Digital Marketing/Web Design_
 
-- Any experience relevent to software development
+- Assisted in the German Accelerator(Asia) Program e,g Lean Canvas, Presentation design, Pitch Deck 
+- Designed and updated the website on WP w/ Elementor 
+- Created visual content on Affinity Design e.g One pager, Brand icons, Pictograms 
+- Bi-weekly update meetings and monthly project management meetings 
+- Working directly with the engineering team on the Dashboard prototype
 
--STAR
--What was the situation/task? (ST)
+**BRIA/Techstyler** (Dec-2019 to May-2020)  
+_Digital Marketing/Web Design_
 
--How was the skill used?
+- Increased engagement on active social media platforms analysis and progress on excel database 
+- R&D for sustainable and innovative fashion developments in the industry for social 
+- Contribute to Weekly Project management meetings 
+- Created websites for both Techstyler and BRIA on WP 
+- Graphic design, layout and proof reading for Research Summit reports published globally
 
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
+**Ivana Rosova** (April-2019 to June-2020)  
+_Social Media Marketing_
 
 #### Programming fundamentals
 
 Object Oriented Design (OOP) best practices, Test Driven Development (TDD), Pair Programming , Agile methodolgy as well as core principles such as dependency injection.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Dec-2022 to March-2023)
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, React
+- RSpec, Cypress
 
 #### Your University UEL(start_date to end_date)
 
 - Fashion Design
 - UEL Tennis Performance Scholar
+- Ex County Tennis Player
 
-#### Any other qualifications
+#### Any other Skills
 
-- 
+- Word/Excel/PowerPoint 				
+- Photoshop/Illustrator 
+- GrahicDesign/Affinity Design
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Wish I could get paid to play tennis, eat great food and travel!
+
+## Other Languages
+
+Spanish - Speaking
