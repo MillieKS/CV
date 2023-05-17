@@ -33,21 +33,21 @@ During on of the projects at Makers as a team we managed our time and expectatio
 **LVHTC** (Aug-2021 to Dec-2022)  
 _Junior Head Coach_
 
-- Coordinating LVHTC's Tennis KPI's & philosophy, with a team of 5+ coaches and a growing programme of 600+ players 
+- Coordinating LVHTC's Tennis KPI's & philosophy, with a team of 5+ coaches and a growing programme of 600+ players 
 - Managed the Inclusive Tennis Programme 
 - Awarded the Essex LTA Disability Tennis Award 2021 
 - Responsible for Timesheets, Invoices, NOPs and enquiries 
-- Writing up the new criteria and structure for the Junior programme with process and procedures in place		
+- Writing up the new criteria and structure for the Junior programme with process and procedures in place		
 - Teach all ages and abilities through local schools, NHS and charity events
 
 **Annea** (April-2021 to July-2021)  
 _Digital Marketing/Web Design_
 
-- Assisted in the German Accelerator(Asia) Program e,g Lean Canvas, Presentation design, Pitch Deck 
+- Assisted in the German Accelerator(Asia) Program e,g Lean Canvas, Presentation design, Pitch Deck 
 - Designed and updated the website on WP w/ Elementor 
-- Created visual content on Affinity Design e.g One pager, Brand icons, Pictograms 
-- Bi-weekly update meetings and monthly project management meetings 
-- Working directly with the engineering team on the Dashboard prototype
+- Created visual content on Affinity Design e.g One pager, Brand icons, Pictograms 
+- Bi-weekly update meetings and monthly project management meetings 
+- Working directly with the engineering team on the Dashboard prototype
 
 **BRIA/Techstyler** (Dec-2019 to May-2020)  
 _Digital Marketing/Web Design_
@@ -56,7 +56,7 @@ _Digital Marketing/Web Design_
 - R&D for sustainable and innovative fashion developments in the industry for social 
 - Contribute to Weekly Project management meetings 
 - Created websites for both Techstyler and BRIA on WP 
-- Graphic design, layout and proof reading for Research Summit reports published globally
+- Graphic design, layout and proof reading for Research Summit reports published globally
 
 **Ivana Rosova** (April-2019 to June-2020)  
 _Social Media Marketing_
@@ -84,7 +84,7 @@ Object Oriented Design (OOP) best practices, Test Driven Development (TDD), Pair
 
 - Word/Excel/PowerPoint 				
 - Photoshop/Illustrator 
-- GrahicDesign/Affinity Design
+- Graphic Design/Affinity Design
 
 ## Hobbies
 
