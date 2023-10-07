@@ -30,33 +30,38 @@ During on of the projects at Makers as a team we managed our time and expectatio
 
 ## Work Experience
 
-**LVHTC** (Aug-2021 to Dec-2022)  
-_Junior Head Coach_
+**Lee Valley Hockey and Tennis Centre | Queen Elizabeth Olympic Park, London**
+*Junior Head Coach* | Aug 2021 - Dec 2022
 
-- Coordinating LVHTC's Tennis KPI's & philosophy, with a team of 5+ coaches and a growing programme of 600+ players 
-- Managed the Inclusive Tennis Programme 
-- Awarded the Essex LTA Disability Tennis Award 2021 
-- Responsible for Timesheets, Invoices, NOPs and enquiries 
-- Writing up the new criteria and structure for the Junior programme with process and procedures in place		
-- Teach all ages and abilities through local schools, NHS and charity events
+- Successfully embodied LVHTC's KPIs and philosophy, overseeing a team of 6 coaches and driving a growing program of 600+ players.
+- Managed the Inclusive Tennis Program, ensuring equal participation and an inclusive environment for players with disabilities.
+- Recognized with the prestigious Essex LTA Disability Tennis Award in 2021 for exceptional contributions to the sport.
+- Efficiently coordinated timesheets, invoices, and NOPs (Notices of Payment) while promptly addressing inquiries to ensure smooth administrative operations.
+- Developed a comprehensive criteria and structure for the Junior program, establishing streamlined processes and procedures to optimize coaching effectiveness and player development.
+- Worked within a cross-functional environment to ensure smooth operations.
+- Managed relevant data and maintained customer retention, sustaining a profitable program using Excel through the customer management system.
 
-**Annea** (April-2021 to July-2021)  
-_Digital Marketing/Web Design_
+**Accredited Tennis Coach (Self-employed)** | Aug 2016 - Present
 
-- Assisted in the German Accelerator(Asia) Program e,g Lean Canvas, Presentation design, Pitch Deck 
-- Designed and updated the website on WP w/ Elementor 
-- Created visual content on Affinity Design e.g One pager, Brand icons, Pictograms 
-- Bi-weekly update meetings and monthly project management meetings 
-- Working directly with the engineering team on the Dashboard prototype
+**Annea.ai | Lisbon**
+*Digital Marketing / Web Design* | Apr 2021 - June 2021
 
-**BRIA/Techstyler** (Dec-2019 to May-2020)  
-_Digital Marketing/Web Design_
+- Developed a user flow diagram and web flow design to update the website using WordPress with Elementor, with UX and UI in mind.
+- Created compelling visual content using Affinity Design to communicate key messages effectively with a call to action.
+- Demonstrated strong PM skills by effectively prioritizing tasks, meeting deadlines, and coordinating with cross-functional teams.
+- Collaborated with the tech team on the development of a Dashboard prototype, providing design input and ensuring seamless UX.
+- Supported the German Accelerator(Asia) Program by assisting with activities such as presentation design and pitch deck creation.
+- Conducted market research and competitor analysis to identify emerging trends and optimize digital marketing strategies, increasing brand visibility and audience interaction by 110% on LinkedIn.
+- Gained knowledge of search engine optimization (SEO) techniques to improve website visibility and organic traffic.
 
-- Increased engagement on active social media platforms analysis and progress on excel database 
-- R&D for sustainable and innovative fashion developments in the industry for social 
-- Contribute to Weekly Project management meetings 
-- Created websites for both Techstyler and BRIA on WP 
-- Graphic design, layout and proof reading for Research Summit reports published globally
+**Techstyler | London**
+*Social Media and Web Content Developer* | Dec 2019 - May 2020
+
+- Designed and developed websites for both Techstyler and BRIA using WordPress, ensuring an aesthetically pleasing and user-friendly online presence with the use of CSS and HTML for editing and adding new features/pages.
+- Collaborated with cross-functional teams to successfully increase engagement on active social media platforms through strategic content planning, resulting in a 20% improved brand visibility and audience interaction on Instagram.
+- Conducted comprehensive analysis and progress tracking of social media performance using Excel, providing valuable insights for data-driven decision-making and optimizing marketing strategies.
+- Conducted research and development (R&D) activities focused on sustainable and innovative fashion developments within the industry, contributing to social and environmental progress.
+- Utilized graphic design skills to create visually appealing layouts and proofread Research Summit reports, which were published globally, ensuring accuracy and professionalism on Adobe InDesign.
 
 **Ivana Rosova** (April-2019 to June-2020)  
 _Social Media Marketing_
