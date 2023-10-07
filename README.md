@@ -16,16 +16,20 @@ I would like to work at a company that also shares my goal of moving the world f
 
 ## <a name="skills">What I bring to the table (Skills) 👏</a>
 
-**Excellent Communicator, Presenter, and Mentor:**
+#### Excellent Communicator, Presenter, and Mentor
+
 During my role as Junior Head Coach at LVHTC, I managed a diverse team of 6 coaches, each with unique backgrounds and experiences. This experience required me to become both a student and a teacher simultaneously. I honed my ability to communicate effectively with individuals from various walks of life, understanding their distinct needs and guiding them through any challenges they faced. As a result, my communication skills evolved significantly, allowing me to seamlessly transition from one-on-one interactions to delivering professional pitches of new ideas to my managers, adapting to the ever-changing environment around me.
 
-**Self-Reliant Individual and Valuable Team Player:**
+#### Self-Reliant Individual and Valuable Team Player
+
 My experience at Makers Academy reinforced my ability to be self-reliant while also contributing effectively to a team. During collaborative projects, we meticulously managed our time and set clear expectations, which proved to be both valuable and enjoyable. I thrived in the team environment and relished working within an agile framework. Even when we encountered conflicts, they served as opportunities for learning and growth, aligning perfectly with our ultimate goal.
 
-**Fast Learner with Exceptional Time Management Skills and Proficiency in Project Management:**
+#### Fast Learner with Exceptional Time Management Skills and Proficiency in Project Management
+
 I've consistently demonstrated my capacity to grasp new concepts rapidly, efficiently manage my time, and excel in project management. These skills were particularly evident during my tenure at LVHTC and Makers Academy, where I balanced coaching responsibilities, coding bootcamp assignments, and collaborative projects seamlessly. My ability to meet deadlines and adapt to changing project requirements ensured successful outcomes and fostered a dynamic work environment.
 
-**Highly Analytical Thinker and Innovative Problem Solver:**
+#### Highly Analytical Thinker and Innovative Problem Solver
+
 I have cultivated a keen analytical mindset that empowers me to approach challenges with innovative problem-solving strategies with a customer centric approach. Whether it's dissecting complex coding issues or devising creative coaching techniques, my ability to analyze situations critically and develop effective solutions has been instrumental in my professional journey.
 
 ## Work Experience
