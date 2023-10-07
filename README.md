@@ -26,7 +26,7 @@ My experience at Makers Academy reinforced my ability to be self-reliant while a
 
 #### Fast Learner with Exceptional Time Management Skills and Proficiency in Project Management
 
-I've consistently demonstrated my capacity to grasp new concepts rapidly, efficiently manage my time, and excel in project management. These skills were particularly evident during my tenure at LVHTC and Makers Academy, where I balanced coaching responsibilities, coding bootcamp assignments, and collaborative projects seamlessly. My ability to meet deadlines and adapt to changing project requirements ensured successful outcomes and fostered a dynamic work environment.
+I've consistently demonstrated my capacity to grasp new concepts rapidly, efficiently manage my time, and excel in project management. These skills were particularly evident during my time at LVHTC and Makers Academy, where I balanced coaching responsibilities, coding bootcamp assignments, and collaborative projects seamlessly. My ability to meet deadlines and adapt to changing project requirements ensured successful outcomes and fostered a dynamic work environment.
 
 #### Highly Analytical Thinker and Innovative Problem Solver
 
@@ -91,6 +91,7 @@ Object Oriented Design (OOP) best practices, Test Driven Development (TDD), Pair
 - BA(Hons) Fashion Design Extended(Sandwich)
 - UEL Tennis Performance Scholar
 - Year Placement with Eco-Fashion Brand supporting projects like Elaphantasia(Saving the Elephants)
+- Dissertation on challenging the Fashion Industry Supply Chain and it's negative impact on its local communities in third world and developing countries.
 
 ## Courses and Certifications
 - CODEAcademy: Machine Learning Career Pathway(Python), DevOps Fundamentals, Typescript Fundamentals, (ongoing)
@@ -113,6 +114,11 @@ Object Oriented Design (OOP) best practices, Test Driven Development (TDD), Pair
   
 - Army Corporal Cadet | 2015 - 2016: Served as an Army Corporal Cadet, exhibiting leadership, teamwork, and discipline in a military environment.
 
+## Interests
+
+- Self-development
+- Environment and Climate Awareness
+- Bettering Tomorrow
 
 ## Hobbies
 
