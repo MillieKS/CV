@@ -31,6 +31,7 @@ During on of the projects at Makers as a team we managed our time and expectatio
 ## Work Experience
 
 **Lee Valley Hockey and Tennis Centre | Queen Elizabeth Olympic Park, London**
+
 *Junior Head Coach* | Aug 2021 - Dec 2022
 
 - Successfully embodied LVHTC's KPIs and philosophy, overseeing a team of 6 coaches and driving a growing program of 600+ players.
@@ -44,6 +45,7 @@ During on of the projects at Makers as a team we managed our time and expectatio
 **Accredited Tennis Coach (Self-employed)** | Aug 2016 - Present
 
 **Annea.ai | Lisbon**
+
 *Digital Marketing / Web Design* | Apr 2021 - June 2021
 
 - Developed a user flow diagram and web flow design to update the website using WordPress with Elementor, with UX and UI in mind.
@@ -55,6 +57,7 @@ During on of the projects at Makers as a team we managed our time and expectatio
 - Gained knowledge of search engine optimization (SEO) techniques to improve website visibility and organic traffic.
 
 **Techstyler | London**
+
 *Social Media and Web Content Developer* | Dec 2019 - May 2020
 
 - Designed and developed websites for both Techstyler and BRIA using WordPress, ensuring an aesthetically pleasing and user-friendly online presence with the use of CSS and HTML for editing and adding new features/pages.
@@ -63,8 +66,8 @@ During on of the projects at Makers as a team we managed our time and expectatio
 - Conducted research and development (R&D) activities focused on sustainable and innovative fashion developments within the industry, contributing to social and environmental progress.
 - Utilized graphic design skills to create visually appealing layouts and proofread Research Summit reports, which were published globally, ensuring accuracy and professionalism on Adobe InDesign.
 
-**Ivana Rosova** (April-2019 to June-2020)  
-_Social Media Marketing_
+**Ivana Rosova | Prague**  
+_Social Media Marketing_  | Apr 2019 - June 2019
 
 #### Programming fundamentals
 
@@ -73,23 +76,42 @@ Object Oriented Design (OOP) best practices, Test Driven Development (TDD), Pair
 ## Education
 
 #### Makers Academy (Dec-2022 to March-2023)
+**Makers Academy | Remote/Shoreditch, London**
+  **_Full-Time Software Development Bootcamp_ | Dec 2022 - March 2023**
+    - Immersed in industry best practices: **Object-Oriented Programming (OOP)**, **Test-Driven Development (TDD)**, and **Agile** methodology.
+    - Daily pair-programming sessions for collaborative problem-solving and knowledge sharing.
+    - Active participation in code reviews and **Emotional Intelligence (EQ)** workshops to enhance code quality.
+    - Successful completion of full-stack projects with databases including **PostgreSQL**, **SQL**, and **MongoDB**.
+    - Proficiency in multiple programming languages: **Ruby**, **JavaScript**, RSpec, Sinatra, and SQL.
+    - Acquired front-end development skills using frameworks like **React.js**, **HTML5**, and **CSS3**.
+    - Utilized project management tools such as **Trello**, **GitHub**, and Agile ceremonies.
 
-- OOP, TDD, MVC
-- Agile/XP
-- Ruby, Rails, JavaScript, React
-- RSpec, Cypress
+## Courses and Certifications
+- CODEAcademy: Machine Learning Career Pathway(Python), DevOps Fundamentals, Typescript Fundamentals, (ongoing)
+- 01 Founders: GoLang 3-week Intensive Camp
+- Digital Marketing Online Course with Google
+- Python AI Programming with Udacity
+- Web Development with CodeFirst:Girls at Google HQ.
 
-#### Your University UEL(start_date to end_date)
+#### University of East London
 
-- Fashion Design
+- BA(Hons) Fashion Design Extended(Sandwich)
 - UEL Tennis Performance Scholar
-- Ex County Tennis Player
 
 #### Any other Skills
 
 - Word/Excel/PowerPoint 				
 - Photoshop/Illustrator 
 - Graphic Design/Affinity Design
+
+## Achievements
+
+- Volunteer Chairman Secretary | 2017 - 2018: Established a strategic partnership with a local nursery, resulting in a substantial annual revenue increase of £10k for the tennis club.
+  
+- University Tennis Scholarship | 2014 - 2019: Awarded a tennis scholarship, demonstrating exceptional athletic abilities, commitment, and time management skills.
+  
+- Army Corporal Cadet | 2015 - 2016: Served as an Army Corporal Cadet, exhibiting leadership, teamwork, and discipline in a military environment.
+
 
 ## Hobbies
 
