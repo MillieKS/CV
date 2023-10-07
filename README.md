@@ -4,7 +4,7 @@ My enthusiasm for coding came from dabbling with Python and the exciting world o
 
 I would like to work at a company that also shares my goal of moving the world forward and creating real, tangible benefits for society. Having now graduated from Makers, I am eager to use my tenacity, rapidly developing tech skills and love of the community to help them achieve this. 
 
-## Projects
+## Projects 🙌
 
 
 | **Project**               | **Description**                                                                                                           | **Timeframe** | **Technology**                                | **Github**                                                          | **Live**                                          |
@@ -13,8 +13,11 @@ I would like to work at a company that also shares my goal of moving the world f
 | Wakify         | Matching your mood to a spotify playlist                                                                           | 2 weeks       | ReactNative, CSS, Jest, Cypress Spotify API                                | [Github](https://github.com/jonas-diete/wakify)           | na   |
 | Destination Unknown        | A flight price comparison site that gives you itinerary recommendations for your selected destination                                                                           | 2 weeks       | JS, React, CSS, Express, Jest, Cypress, FlightLabs API, RoadGoat API                                | [Github](https://github.com/rachelnewby/destination-unknown )           | na   |
 
+#### Programming fundamentals
 
-## <a name="skills">What I bring to the table (Skills) 👏</a>
+Object Oriented Design (OOP) best practices, Test Driven Development (TDD), Pair Programming , Agile methodolgy as well as core principles.
+
+## <a name="skills">What I bring to the table 👏</a>
 
 #### Excellent Communicator, Presenter, and Mentor
 
@@ -32,7 +35,7 @@ I've consistently demonstrated my capacity to grasp new concepts rapidly, effici
 
 I have cultivated a keen analytical mindset that empowers me to approach challenges with innovative problem-solving strategies with a customer centric approach. Whether it's dissecting complex coding issues or devising creative coaching techniques, my ability to analyze situations critically and develop effective solutions has been instrumental in my professional journey.
 
-## Work Experience
+## Work Experience 🥷
 
 **Lee Valley Hockey and Tennis Centre | Queen Elizabeth Olympic Park, London**
 _Junior Head Coach_ | Aug 2021 - Dec 2022
@@ -70,11 +73,7 @@ _Social Media and Web Content Developer_ | Dec 2019 - May 2020
 **Ivana Rosova | Prague**  
 _Social Media Marketing_  | Apr 2019 - June 2019
 
-#### Programming fundamentals
-
-Object Oriented Design (OOP) best practices, Test Driven Development (TDD), Pair Programming , Agile methodolgy as well as core principles such as dependency injection.
-
-## Education
+## Education 🎓
 
 #### Makers Academy | Remote/Shoreditch, London
 **_Full-Time Software Development Bootcamp_ | Dec 2022 - March 2023**
@@ -87,26 +86,25 @@ Object Oriented Design (OOP) best practices, Test Driven Development (TDD), Pair
 - Utilized project management tools such as **Trello**, **GitHub**, and Agile ceremonies.
 
 #### University of East London
-
-- BA(Hons) Fashion Design Extended(Sandwich)
-- UEL Tennis Performance Scholar
+**_BA(Hons) Fashion Design Extended(Sandwich)_**
 - Year Placement with Eco-Fashion Brand supporting projects like Elaphantasia(Saving the Elephants)
 - Dissertation on challenging the Fashion Industry Supply Chain and it's negative impact on its local communities in third world and developing countries.
+- UEL Tennis Performance Scholar
 
-## Courses and Certifications
+## Courses and Certifications 👩🏽‍💻
 - CODEAcademy: Machine Learning Career Pathway(Python), DevOps Fundamentals, Typescript Fundamentals, (ongoing)
 - 01 Founders: GoLang 3-week Intensive Camp
 - Digital Marketing Online Course with Google
 - Python AI Programming with Udacity
 - Web Development with CodeFirst:Girls at Google HQ.
 
-#### Any other Skills
+#### Any other Skills 🖌️
 
 - Word/Excel/PowerPoint 				
 - Photoshop/Illustrator 
 - Graphic Design/Affinity Design
 
-## Achievements
+## Achievements ✅
 
 - Volunteer Chairman Secretary | 2017 - 2018: Established a strategic partnership with a local nursery, resulting in a substantial annual revenue increase of £10k for the tennis club.
   
@@ -114,16 +112,16 @@ Object Oriented Design (OOP) best practices, Test Driven Development (TDD), Pair
   
 - Army Corporal Cadet | 2015 - 2016: Served as an Army Corporal Cadet, exhibiting leadership, teamwork, and discipline in a military environment.
 
-## Interests
+## Interests 🫶
 
 - Self-development
 - Environment and Climate Awareness
 - Bettering Tomorrow
 
-## Hobbies
+## Hobbies 🎾
 
 Wish I could get paid to play tennis, eat great food and travel!
 
-## Other Languages
+## Other Languages 🌎
 
 Spanish - Speaking
