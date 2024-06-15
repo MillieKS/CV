@@ -37,13 +37,13 @@ I have cultivated a keen analytical mindset that empowers me to approach challen
 
 ## Work Experience 🥷
 
-**Rewriting the Code | Remote**
+**Rewriting the Code | Remote**  
 _RTC UK Ambassador_ | March 2024 - Present
 
 - Building community engagement initiatives and devised innovative strategies to increase membership, fostering a vibrant and inclusive environment within the world's largest peer-to-peer network of students and early-career women in tech.
 - Managing event coordination and project management, facilitating professional development opportunities and networking events aimed at empowering members and driving positive change in the tech industry.
 
-**Tesla | London**
+**Tesla | London**  
 _EMEA Future Talent Trainee_ | Jan 2024 - Present
 
 - Support front-of-house operations within a cross-functional setting encompassing sales, delivery, and Tesla Support and Service(both technical and non-technical), demonstrating effective leadership and organisational skills.
@@ -52,7 +52,7 @@ _EMEA Future Talent Trainee_ | Jan 2024 - Present
 - Manage FinOps, loaner processes, and customer inquiries with a focus on providing a consistent positive customer experience.
 - WUndergoing intensive, comprehensive training covering technical and non-technical aspects of Tesla’s customer journey, products and ethos, showcasing a commitment to continuous learning and development.
   
-**Lee Valley Hockey and Tennis Centre | Queen Elizabeth Olympic Park, London**
+**Lee Valley Hockey and Tennis Centre | Queen Elizabeth Olympic Park, London**  
 _Junior Head Coach_ | Aug 2021 - Dec 2022
 
 - Successfully embodied LVHTC's KPIs and philosophy, overseeing a team of 6 coaches and driving a growing program of 600+ players.
@@ -65,7 +65,7 @@ _Junior Head Coach_ | Aug 2021 - Dec 2022
 
 **Accredited Tennis Coach (Self-employed)** | Aug 2016 - Present
 
-**Annea.ai | Lisbon**
+**Annea.ai | Lisbon**  
 _Digital Marketing / Web Design_ | Apr 2021 - June 2021
 
 - Developed a user flow diagram and web flow design to update the website using WordPress with Elementor, with UX and UI in mind.
@@ -76,7 +76,7 @@ _Digital Marketing / Web Design_ | Apr 2021 - June 2021
 - Conducted market research and competitor analysis to identify emerging trends and optimize digital marketing strategies, increasing brand visibility and audience interaction by 110% on LinkedIn.
 - Gained knowledge of search engine optimization (SEO) techniques to improve website visibility and organic traffic.
 
-**Techstyler | London**
+**Techstyler | London**  
 _Social Media and Web Content Developer_ | Dec 2019 - May 2020
 
 - Designed and developed websites for both Techstyler and BRIA using WordPress, ensuring an aesthetically pleasing and user-friendly online presence with the use of CSS and HTML for editing and adding new features/pages.
@@ -91,7 +91,7 @@ _Social Media Marketing_  | Apr 2019 - June 2019
 ## Education 🎓
 
 #### Makers Academy | Remote/Shoreditch, London
-**_FFull-Time Quality Engineering Specialism course _ | Nov 2023 - Dec 2023**
+**_Full-Time Quality Engineering Specialism course_ | Nov 2023 - Dec 2023**
 - Developing proficiency in Java, Playwright/Selenium, and API testing, while gaining skills in Automated Checking, Security, Accessibility, Performance, and Static Analysis. Covering end-to-end testing, automation, and other quality engineer techniques.
 
 #### CodeFirst Girls | Remote, London 
