@@ -37,6 +37,21 @@ I have cultivated a keen analytical mindset that empowers me to approach challen
 
 ## Work Experience 🥷
 
+**Rewriting the Code | Remote**
+_RTC UK Ambassador_ | March 2024 - Present
+
+- Building community engagement initiatives and devised innovative strategies to increase membership, fostering a vibrant and inclusive environment within the world's largest peer-to-peer network of students and early-career women in tech.
+- Managing event coordination and project management, facilitating professional development opportunities and networking events aimed at empowering members and driving positive change in the tech industry.
+
+**Tesla | London**
+_EMEA Future Talent Trainee_ | Jan 2024 - Present
+
+- Support front-of-house operations within a cross-functional setting encompassing sales, delivery, and Tesla Support and Service(both technical and non-technical), demonstrating effective leadership and organisational skills.
+- Collaborate with technicians and virtual tech experts to optimise workflow efficiency, fostering a synergistic team environment.
+- Efficiently coordinated timesheets, invoices, and NOPs (Notices of Payment) while promptly addressing inquiries to ensure smooth administrative operations.
+- Manage FinOps, loaner processes, and customer inquiries with a focus on providing a consistent positive customer experience.
+- WUndergoing intensive, comprehensive training covering technical and non-technical aspects of Tesla’s customer journey, products and ethos, showcasing a commitment to continuous learning and development.
+  
 **Lee Valley Hockey and Tennis Centre | Queen Elizabeth Olympic Park, London**
 _Junior Head Coach_ | Aug 2021 - Dec 2022
 
@@ -74,6 +89,15 @@ _Social Media and Web Content Developer_ | Dec 2019 - May 2020
 _Social Media Marketing_  | Apr 2019 - June 2019
 
 ## Education 🎓
+
+#### Makers Academy | Remote/Shoreditch, London
+**_FFull-Time Quality Engineering Specialism course _ | Nov 2023 - Dec 2023**
+- Developing proficiency in Java, Playwright/Selenium, and API testing, while gaining skills in Automated Checking, Security, Accessibility, Performance, and Static Analysis. Covering end-to-end testing, automation, and other quality engineer techniques.
+
+#### CodeFirst Girls | Remote, London 
+**_Python and Apps Coding Kickstarter course_ | Sept 2023 - Oct 2023**
+- Developing proficiency in essential concepts like data types, variables and operations with hands-on experience in data extraction, formatting, and manipulation through covering input method, loops, functions, lists, dictionaries, file handling and API integrations. 
+- Collaborated in a group project with a focus on data extraction, formatting aligning with principles essential to data engineering roles
 
 #### Makers Academy | Remote/Shoreditch, London
 **_Full-Time Software Development Bootcamp_ | Dec 2022 - March 2023**
